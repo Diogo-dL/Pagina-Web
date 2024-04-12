@@ -1,1 +1,2 @@
-Pagina Web feito em HTML e CSS
+#PAGINA WEB
+Projeto feito em HTML/CSS e criado durante aula de programação.
